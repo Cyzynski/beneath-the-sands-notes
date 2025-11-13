@@ -1,0 +1,1 @@
+Where all the children of Sand's End are taught, to the best of the lone [[Miss K (Kavgravakk)|teacher's]] abilities, located on the southern side of the central plaza.

@@ -1,0 +1,38 @@
+views:
+  - type: table
+    name: NPCs - Major
+    filters:
+      and:
+        - file.inFolder("NPCs")
+        - file.tags.contains("NPC/Major")
+    order:
+      - file.name
+  - type: table
+    name: Missions
+    filters:
+      and:
+        - file.inFolder("Missions")
+  - type: table
+    name: Monsters
+    filters:
+      and:
+        - file.tags.contains("CR")
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: tags
+        direction: DESC
+  - type: table
+    name: View
+  - type: table
+    name: NPCs - All
+    filters:
+      and:
+        - file.inFolder("NPCs")
+  - type: table
+    name: NPCs - Minor
+    filters:
+      and:
+        - file.inFolder("NPCs")
+        - file.tags.contains("NPC/Minor")

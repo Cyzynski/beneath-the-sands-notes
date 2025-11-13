@@ -1,0 +1,5 @@
+#NPC/Minor 
+
+A stout dwarven man with a fondness for drink and an even greater fondness for gambling that leads [[Dust Lake Mining Company|the company]]. He views every expedition as one big bet against the house. He gets paid a paltry sum directly by the lord of Sand's End, with promises of much greater bonuses when ancient [[Zmoka|Zmokan]] treasures are found.
+
+Also a chain-smoker. 

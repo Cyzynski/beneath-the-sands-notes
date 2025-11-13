@@ -1,0 +1,5 @@
+[Conditions](https://www.aidedd.org/en/rules/conditions/)
+[Map Generator](https://watabou.github.io/)
+[Encounter Calculator](https://www.aidedd.org/dnd-encounter/index.php)
+[2024 Monsters](https://www.aidedd.org/monster/)
+[2024 Rules Compendium](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024))
