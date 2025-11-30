@@ -1,5 +1,4 @@
 %% TO EDIT: https://watabou.github.io/village-generator/?seed=457803868&tags=sparse,dead end,palisade,organic,uncultivated&name=Sand's End&pop=78 %%
-
 ![[SandsEnd.png|400]]
 Located on the brink of the arcane sands of the deep desert is the frontier settlement of Sand's End.
 ## Places of Interest
