@@ -1,4 +1,4 @@
-#NPC/Major
-
 ![[Doppler.png|400]]
 Dr. Doppler is a Professor of Archaeology at [[Grove University]]. He inherited his vast wealth from his father, Argent, who was a famed inventor, tinker, and professor of mechanics at [[Grove University|GU]]. Malcom wants to do honor to his father by dedicating a great discovery of some kind or another to his memory. Fortunately, [[Helena Cartier]], a pupil of his came to him recently with a proposition for an expedition that promises to do just that by unearthing .ancient technology from the dawn of recorded history - just the sort of thing that would make a "playing-in-the-dirt-isn't-a-noble-pursuit"-father eat his words.
+
+#NPC/Major

@@ -36,3 +36,11 @@ views:
       and:
         - file.inFolder("NPCs")
         - file.tags.contains("NPC/Minor")
+  - type: table
+    name: Magic Items
+    filters:
+      and:
+        - file.hasTag("MagicItem")
+    order:
+      - file.name
+      - file.tags

@@ -9,15 +9,10 @@ Located on the brink of the arcane sands of the deep desert is the frontier sett
 ### Businesses
 * [[Iron Will]] - a small blacksmith shop in the Northeast corner of the center of town.
 * [[Dust Lake Mining Company]] - Housed in the five buildings closest to the Dust Gate. Of those 5 buildings, the one closest to town is their main office and bunkhouse for the head honchos. The four remaining buildings are used for storing a combination of the men and their tools.
-* Fresh Meat
+* [[Fresh Meat]] - a group of hunters and woodsmen that bring fresh meat into town. They also tend to serve as impromptu additional guards if need be.
 ## People
 Below is a list of notable folks in town:
-* [[Iron Will#Willem Dasmith|Willem Dasmith]] is the local blacksmith
-* [[Dust Lake Mining Company#Gunder Stoneshovel|Gunder Stoneshovel]] the leader of the mining company
-* [[Sheriff Randall Boggs|Sheriff Boggs]] is the local lawman (which, in town is fairly unnecessary. The folk of Sand's End are a peaceful bunch - his main adversaries are the bandits and brigands that plague both the road into town from civilization as well as the miners and adventurers in the deep desert). He is assisted by the town guard, but all power in town ultimately falls to him.
-### Guards
-* Harold
-* 
-
-Below are some less notable folks:
-* Woodsman Troy
+* [[Willem Dasmith]] is the local blacksmith
+* [[Gunder Stoneshovel]] is the leader of the mining company
+* [[Miss K (Kavgravakk)]] teaches the children of all the residents
+* [[Sheriff Randall Boggs|Sheriff Boggs]] is the local lawman 

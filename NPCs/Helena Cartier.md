@@ -1,5 +1,7 @@
-#NPC/Major
-
 ![[Helena.png|400]]
 Helena is a grad student at [[Grove University|GU]], the current working title for her dissertation is *"The advanced magics behind the Zmoka's machines: a treatise on myth made fact"* - her advisors have told her several times that she should consider not writing it about fairytale stories, or at least shortening the title to something less... self-important? She has stubbornly decided to keep it, thinking that it will make her proving the existence of these ancient peoples all the sweeter.
 Being the world's leading (and only) Zmoka expert, she has devoted most of her adult life to studying of the myths and legends surrounding their existence. One day, while delving into an obscure corner of [[Grove University|GU]]'s children's literature section, she found a tattered manuscript, nibbled on by centuries of scrollmites. The manuscript detailed specific geographical features that would place the ruins somewhere in the [[Southern Expanse]]. Armed with this knowledge and the fact that [[Dr. Malcom Doppler]], a would-be archeologist, recently came into a vast fortune that could bankroll and expedition, she went to the doctor with a plan to make history.
+
+---
+
+#NPC/Major

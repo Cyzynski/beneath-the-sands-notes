@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 *Medium Humanoid, Lawful Evil*
+=======
+*Medium #Humanoid, Lawful Evil*
+>>>>>>> Stashed changes
 
 ---
 **AC** 12
