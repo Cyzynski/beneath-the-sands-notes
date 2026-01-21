@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem/Attunement
+---
 *Wonderous Item, Uncommon, requires Attunement*
 *(Adapted from @thefantasticemporium)*
 
@@ -13,4 +17,4 @@ The rare variant of this weapon has all the features above, plus
 ***Arcane Sentience.*** The gun is sentient and remembers spells cast with it. As a Magic Action, (if the gun allows it) you can cast any Cantrip that has been cast through the gun since you attuned to it. When a new creature attunes to it, it loses all its memories.
 
 ---
-#MagicItem/Uncommon #MagicItem/Rare  #MagicItem/Weapon 
+#MagicItem/Uncommon #MagicItem/Rare  #MagicItem/Weapon   #MagicItem/Attunement 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level1
+---
 *Level 1 Abjuration (Cleric, Druid, Paladin, Ranger)*
 *(From Forgotten Sands)*
 

@@ -1,8 +1,8 @@
-<<<<<<< Updated upstream
-*Small Construct, Unaligned*
-=======
+---
+tags:
+  - Construct
+---
 *Small #Construct, Unaligned*
->>>>>>> Stashed changes
 
 ---
 **AC** 16
@@ -20,11 +20,7 @@
 **Languages** -
 **CR** 1 (PB +2)  #CR/1
 ## Traits
-<<<<<<< Updated upstream
-The animated weapon has three different forms - Greatsword, Greataxe, and Maul. Changing forms only affects its attacks and can be done each round as a bonus action.
-=======
 ***Mercurial.*** The animated weapon has three different forms - Greatsword, Greataxe, and Maul. Changing forms only affects its attacks and can be done each round as a bonus action.
->>>>>>> Stashed changes
 
 ## Actions
 ***Greatsword - Slash.*** *Melee Attack Roll*: +5, reach 5 ft. *Hit*: 9 (2d6 + 3) Slashing damage. *Miss*: 3 Slashing damage.

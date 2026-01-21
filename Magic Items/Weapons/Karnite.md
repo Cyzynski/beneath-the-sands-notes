@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem/Attunement/Ranger
+---
 *Carbine, Uncommon (Requires Attunement by a Ranger)*
 *(From Gunslingers Guide to Rexfald)*
 
@@ -12,4 +16,4 @@ This magical carbine is constructed from white pine varnished with an oil extrac
 ***Silver Demise.*** Silver bullets fired through this weapon that hit Lycanthropes or Shapeshifters automatically Critical Hit.
 
 ---
-#MagicItem/Uncommon #MagicItem/Weapon 
+#MagicItem/Uncommon #MagicItem/Weapon   #MagicItem/Attunement/Ranger 

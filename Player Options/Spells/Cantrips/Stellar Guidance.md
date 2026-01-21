@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Cantrip
+---
 *Divination Cantrip (Cleric, Druid, Ranger, Wizard)*
 *(From Forgotten Sands)*
 

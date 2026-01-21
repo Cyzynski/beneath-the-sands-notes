@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Cantrip
+---
 *Conjuration Cantrip (Druid, Sorcerer, Warlock)*
 *(From Forgotten Sands)*
 

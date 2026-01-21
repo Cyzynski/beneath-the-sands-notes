@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level1
+---
 *Level 1 Enchantment (Paladin, Ranger, Warlock)*
 *(From @me.mimic)*
 

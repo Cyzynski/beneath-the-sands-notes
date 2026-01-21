@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level1
+---
 *Level 1 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
 *(From Forgotten Sands)*
 

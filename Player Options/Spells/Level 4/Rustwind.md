@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level4
+---
 *Level 4 Evocation (Sorcerer, Warlock, Wizard)*
 *(From @me.mimic)*
 

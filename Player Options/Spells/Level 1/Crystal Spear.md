@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level1
+---
 *Level 1 Conjuration (Druid, Sorcerer, Wizard)*
 *(From Forgotten Sands)*
 

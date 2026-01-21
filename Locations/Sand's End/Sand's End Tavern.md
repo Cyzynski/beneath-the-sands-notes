@@ -1,4 +1,4 @@
-Located at about 9:00 around the [[Sands End]]'s central tree.
+Located at about 9:00 around the [[Sand's End]]'s central tree.
 
 Owned and operated by [[Sam Noonan]], but he couldn't come up with a satisfying name, so it's just known around town as "The Tavern".
 

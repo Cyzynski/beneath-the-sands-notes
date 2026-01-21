@@ -1,3 +1,8 @@
+---
+tags:
+  - MagicItem/Attunement/Druid
+  - MagicItem/Attunement/Ranger
+---
 *Coach Gun, Uncommon (Requires Attunement by a Druid or Ranger)*
 *(From Gunslingers Guide to Rexfald)*
 
@@ -10,4 +15,4 @@ This magical wooden shotgun is grown directly from a desert cedar sapling and em
 ![[Cockleburr.png|400]]
 
 ---
-#MagicItem/Uncommon #MagicItem/Weapon 
+#MagicItem/Uncommon #MagicItem/Weapon   #MagicItem/Attunement/Druid   #MagicItem/Attunement/Ranger 

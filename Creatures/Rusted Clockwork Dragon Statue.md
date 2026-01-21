@@ -1,8 +1,9 @@
-<<<<<<< Updated upstream
-*Large Construct, Unaligned*
-=======
+---
+tags:
+  - Construct
+aliasesaliases:
+---
 *Large #Construct, Unaligned*
->>>>>>> Stashed changes
 
 ---
 **AC** 16

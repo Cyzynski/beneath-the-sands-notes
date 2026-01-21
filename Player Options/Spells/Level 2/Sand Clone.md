@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level2
+---
 *Level 2 Illusion (Bard, Sorcerer, Wizard)*
 *(From Forgotten Sands)*
 
@@ -13,4 +17,4 @@ On your turn, you can mentally command the clone to move up to 30 feet and take 
 The clone appears almost identical to you but feels gritty to the touch. A creature can determine it’s an illusion with a successful Intelligence (Investigation) check against your spell save DC.
 
 ___
-#Spell/Level2 #Spell/Bard #Spell/Sorcerer #Spell/Wizard #Spell/Illusion
+#Spell/Level2 #Spell/Bard #Spell/Sorcerer #Spell/Wizard #Spell/Illusion #Spell/Concentration

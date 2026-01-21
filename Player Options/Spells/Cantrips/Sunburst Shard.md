@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Cantrip
+---
 *Evocation Cantrip (Druid, Sorcerer, Warlock, Wizard)*
 *(From Forgotten Sands)*
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem/Attunement/Wizard
+---
 *Pistol, Uncommon (Requires Attunement by a Wizard)*
 *(From Gunslingers Guide to Rexfald)*
 
@@ -12,4 +16,4 @@ This magical ranged weapon is a finely engraved, double barreled wheel-lock pist
 ![[Armaxis.png|300]]
 
 ---
-#MagicItem/Uncommon #MagicItem/Weapon 
+#MagicItem/Uncommon #MagicItem/Weapon #MagicItem/Attunement/Wizard

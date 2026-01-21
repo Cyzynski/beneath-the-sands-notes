@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level3
+---
 *Level 3 Abjuration (Artificer, Druid, Ranger, Sorcerer)*
 *(From Forgotten Sands)*
 

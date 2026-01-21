@@ -1,4 +1,6 @@
-Leader of [[Fresh Meat]]. Easily scared, but resents being called cowardly.
+![[Troy.png|400]]
+
+Leader of [[Fresh Meat]]. Easily scared, but resents implications that he is cowardly.
 
 ---
 

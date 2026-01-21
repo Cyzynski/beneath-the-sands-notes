@@ -1,3 +1,7 @@
+---
+tags:
+  - MagicItem/Attunement/Monk
+---
 *Palm Pistol, Uncommon (Requires Attunement by a Monk)*
 *(From Gunslingers Guide to Rexfald)*
 
@@ -16,4 +20,4 @@ This magic ranged weapon is a silver plunger-fired palm pistol attached to the w
 ![[Chakravarti.png|300]]
 
 ---
-#MagicItem/Uncommon #MagicItem/Weapon 
+#MagicItem/Uncommon #MagicItem/Weapon   #MagicItem/Attunement/Monk 

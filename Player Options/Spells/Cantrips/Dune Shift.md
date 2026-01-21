@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Cantrip
+---
 *Transmutation Cantrip (Druid, Ranger, Sorcerer, Wizard)*
 *(From Forgotten Sands)*
 

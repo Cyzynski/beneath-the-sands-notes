@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Cantrip
+---
 *Enchantment Cantrip (Bard, Cleric, Warlock, Wizard)*
 *(From @me.mimic)*
 

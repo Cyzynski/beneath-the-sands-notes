@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level3
+---
 *Level 3 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
 *(From Forgotten Sands)*
 
@@ -16,4 +20,4 @@ Water in the area evaporates and plants wither unless magically protected.
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 ___
-#Spell/Level3 #Spell/Druid #Spell/Sorcerer #Spell/Warlock #Spell/Wizard #Spell/Necromancy 
+#Spell/Level3 #Spell/Druid #Spell/Sorcerer #Spell/Warlock #Spell/Wizard #Spell/Necromancy  #Spell/Concentration

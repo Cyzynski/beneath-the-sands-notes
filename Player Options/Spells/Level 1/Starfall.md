@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level1
+---
 *Level 1 Evocation (Cleric, Druid, Sorcerer, Warlock)*
 *(From Forgotten Sands)*
 

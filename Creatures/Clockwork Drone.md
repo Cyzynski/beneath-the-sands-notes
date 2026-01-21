@@ -1,8 +1,8 @@
-<<<<<<< Updated upstream
-*Tiny Construct, Unaligned*
-=======
+---
+tags:
+  - Construct
+---
 *Tiny #Construct, Unaligned*
->>>>>>> Stashed changes
 ![[Clockwork_Drone.png|200]]
 
 ---

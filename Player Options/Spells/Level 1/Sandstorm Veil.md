@@ -1,3 +1,7 @@
+---
+tags:
+  - Spell/Level1
+---
 *Level 1 Evocation (Druid, Ranger, Sorcerer, Wizard)*
 *(From Forgotten Sands)*
 
@@ -13,4 +17,4 @@ Creatures that start their turn in the veil must make a Constitution saving thro
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the radius increases by 5 feet for each slot level above 1st.
 
 ___
-#Spell/Level1 #Spell/Druid #Spell/Ranger #Spell/Sorcerer #Spell/Wizard #Spell/Evocation 
+#Spell/Level1 #Spell/Druid #Spell/Ranger #Spell/Sorcerer #Spell/Wizard #Spell/Evocation  #Spell/Concentration
