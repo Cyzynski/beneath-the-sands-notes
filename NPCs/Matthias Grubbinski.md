@@ -1,7 +1,7 @@
-#NPC/Major
-
 ![[Grubbinski.png|400]]
 Matthias Grubbinski, or Grubbinski (Grubs to those lucky enough to call him friend) as he likes to be known, is a halfling man of 83 years. A stout and chatty man as well as a merchant of all sorts of wares. He amassed his wealth primarily selling herbal remedies and adventuring equipment - but never weapons. He abhors violence, but understands that the only way to deter violence is with the impression that you are willing to resort to it as well.
+
+His disdain for violence comes from his time in the military, where he served as a general - hence the name for his shop, [[General's Store]]
 
 That's why he meets our humble party. He was setting off to move from [[Hope's Embrace]] down to [[Sand's End]] - at least temporarily - to set up shop. Knowing that brigands are plentiful along the roads and trails out to the frontier, he wisely put out the call for adventurers to protect him with their potentially-but-hopefully-not-actually violent ways.
 # Family
@@ -40,3 +40,7 @@ Matthias is the patriarch of the Grubbinski Merchant Company - because the best 
 	2. Magnesium
 7. Hooplus
 8. Buster
+
+___
+
+#NPC/Major

@@ -1,5 +1,24 @@
 views:
   - type: table
+    name: Monsters
+    filters:
+      and:
+        - file.tags.contains("CR")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: file.tags
+        direction: ASC
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 148
+  - type: table
     name: NPCs - Major
     filters:
       and:
@@ -13,19 +32,6 @@ views:
       and:
         - file.inFolder("Missions")
   - type: table
-    name: Monsters
-    filters:
-      and:
-        - file.tags.contains("CR")
-    order:
-      - file.name
-      - file.tags
-    sort:
-      - property: tags
-        direction: DESC
-  - type: table
-    name: View
-  - type: table
     name: NPCs - All
     filters:
       and:
@@ -36,3 +42,11 @@ views:
       and:
         - file.inFolder("NPCs")
         - file.tags.contains("NPC/Minor")
+  - type: table
+    name: Magic Items
+    filters:
+      and:
+        - file.hasTag("MagicItem")
+    order:
+      - file.name
+      - file.tags

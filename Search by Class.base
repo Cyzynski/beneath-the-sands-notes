@@ -1,0 +1,214 @@
+views:
+  - type: table
+    name: Spells
+    filters:
+      and:
+        - file.tags.contains("Spell")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+    sort: []
+  - type: table
+    name: Barbarian
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Barbarian")
+    order:
+      - file.name
+      - file.tags
+      - tags
+  - type: table
+    name: Bard
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Bard", "Spell/Bard")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+  - type: table
+    name: Cleric
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Cleric", "Spell/Cleric")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
+  - type: table
+    name: Druid
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Druid", "Spell/Druid")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
+  - type: table
+    name: Fighter
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Fighter")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
+  - type: table
+    name: Monk
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Monk")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
+  - type: table
+    name: Paladin
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Paladin", "Spell/Paladin")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
+  - type: table
+    name: Ranger
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Ranger", "Spell/Ranger")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
+  - type: table
+    name: Rogue
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Rogue")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
+  - type: table
+    name: Sorcerer
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Sorcerer", "Spell/Sorcerer")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
+  - type: table
+    name: Warlock
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Warlock", "Spell/Warlock")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
+  - type: table
+    name: Wizard
+    filters:
+      and:
+        - file.tags.containsAny("MagicItem/Attunement/Wizard", "Spell/Wizard")
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 122
+      file.tags: 479
