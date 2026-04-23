@@ -1,7 +1,6 @@
 ---
 tags:
   - Construct
-aliasesaliases:
 ---
 *Large #Construct, Unaligned*
 
@@ -16,8 +15,8 @@ aliasesaliases:
 | STR | +4 | +4 | DEX | +2 | +4 | CON | +3 | +3 | 
 | INT | +2 | +2 | WIS | +0 | +2 | CHA | +3 | +3 | 
 
-**Immunities** poison, psychic, charmed, frightened, paralyzed, petrified, poisoned
-**Senses** darkvision 60ft, passive Perception xx
+**Immunities** poison, psychic, Charmed, Frightened, Paralyzed, Petrified, Poisoned
+**Senses** darkvision 60ft, passive Perception 10
 **Languages** understands Draconic and Zmokan, but can't speak.
 **CR** 3 (PB +2) #CR/3
 

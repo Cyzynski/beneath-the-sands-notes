@@ -30,6 +30,6 @@ tags:
 **_Revolver_**. _Ranged Attack Roll_: +4, range 100/400 ft. _Hit_: 5 (1d6 + 2) Piercing damage. The revolver holds 6 rounds, after all are fired, the Highwayman must spend an action to reload.
 
 ## Loot
-* 1d6 sp
-* 1d12 cp
+* 1d4 sp
+* 1d8 cp
 * 1d6 revolver bullets

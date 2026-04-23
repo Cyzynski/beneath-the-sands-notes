@@ -20,7 +20,7 @@ tags:
 **CR** 1/8 (PB +2) #CR/eighth
 
 ## Traits
-***Explosive Failure.*** The drone explodes when it is destroyed. *Dexterity Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the drone. *Failure*: 5 (2d4) Piercing damage. Success: Half damage.
+***Explosive Failure.*** The drone explodes when it is destroyed. *Dexterity Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the drone. *Failure*: 5 (2d4) Piercing damage. *Success*: Half damage.
 
 ## Actions
-***Bolt Thrower.*** *Ranged Attack Roll*: +5, range 40/100 ft. *Hit*: 6 (1d6 + 3) Piercing damage.
+***Gun.*** *Ranged Attack Roll*: +5, range 40/100 ft. *Hit*: 6 (1d6 + 3) Piercing damage.

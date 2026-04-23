@@ -8,7 +8,7 @@ tags:
 ![[HighwaymanSlugger.png]]
 
 **AC** 15
-**HP** 52 (8d8+16)
+**HP** 55 (9d8+18)
 **Initiative** +2 (12)
 **Speed** 30ft.
 
