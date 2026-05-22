@@ -1,21 +1,24 @@
 # Simple Ranged Weapons
-| Weapon | Damage | Properties | Mastery | Weight | Cost |
-| --- | --- | --- | --- | --- | --- |
-| Coach Gun | 1d8 p. | Ammunition (Range 20/60; Shell), Reload (2), Two-Handed | [[#Spread]] | 5 lbs. | 30 GP |
-| Musket | 1d10 p. | Ammunition (60/180; Bullet), Loading, Two-handed, Preparation | Slow | 10 lbs. | 100 GP |
-| Palm Pistol | 1d4 p. | Ammunition (Range 15/40; Bullet), Concealed, Light, Reload (2) | Vex | 1 lb. | 45 GP |
-| Pistol | 1d8 p. | Ammunition (Ranged 30/90; Bullet), Light, Loading, Preparation | Sap | 3 lbs. | 25 GP |
-| Revolver | 1d6 p. | Ammunition (Range 30/90; Bullet), Light, Reload (6) | Nick | 2 lbs. | 50 GP |
+| Weapon      | Damage  | Properties                                                     | Mastery     | Weight  | Cost   |
+| ----------- | ------- | -------------------------------------------------------------- | ----------- | ------- | ------ |
+| Coach Gun   | 1d8 p.  | Ammunition (Range 20/60; Shell), Reload (2), Two-Handed        | [[#Spread]] | 5 lbs.  | 30 GP  |
+| Musket      | 1d10 p. | Ammunition (60/180; Bullet), Loading, Two-handed, Preparation  | Slow        | 10 lbs. | 100 GP |
+| Palm Pistol | 1d4 p.  | Ammunition (Range 15/40; Bullet), Concealed, Light, Reload (2) | Vex         | 1 lb.   | 45 GP  |
+| Pistol      | 1d8 p.  | Ammunition (Ranged 30/90; Bullet), Light, Loading, Preparation | Sap         | 3 lbs.  | 25 GP  |
+| Revolver    | 1d6 p.  | Ammunition (Range 30/90; Bullet), Light, Reload (6)            | Nick        | 2 lbs.  | 50 GP  |
 
 # Martial Ranged Weapons
-| Weapon | Damage | Properties | Mastery | Weight | Cost |
-| --- | --- | --- | --- | --- | --- |
-| Carbine | 1d8 p. | Ammunition (Range 40/120; Bullet), Versatile (1d10), Reload (8) | Vex | 7 lbs. | 50 GP |
-| Hand Cannon | 2d6 p. | Ammunition (Range 30/90; Bullet), Heavy, Reload (6) | Push | 6 lbs. | 100 GP |
-| Punt Gun | 2d8 p. | Ammunition (Range 80/200; Shell), Heavy, Loading, Two-Handed | [[#Spread]] | 18 lbs. | 200 GP |
-| Shotgun | 1d8 p. | Ammunition (Range 40/120; Shell), Loading (While held one-handed), Versatile (1d10), Reload (5) | [[#Spread]] | 2 lbs. | 50 GP |
-| Sniper Rifle | 1d12 p. | Ammunition (Range 200/600; Bullet), Loading, Two-Handed | Graze | 10 lbs. | 150 GP |
-| Volley Gun | 1d10 p. | Ammunition (Range 60/100; Bullet), Salvo, Heavy, Two-Handed, Reload (100) | Sap | 25 lbs. | 100 pp |
+| Weapon       | Damage  | Properties                                                                                      | Mastery     | Weight  | Cost   |
+| ------------ | ------- | ----------------------------------------------------------------------------------------------- | ----------- | ------- | ------ |
+| Carbine      | 1d8 p.  | Ammunition (Range 40/120; Bullet), Versatile (1d10), Reload (8)                                 | Vex         | 7 lbs.  | 50 GP  |
+| Hand Cannon  | 2d6 p.  | Ammunition (Range 30/90; Bullet), Heavy, Reload (6)                                             | Push        | 6 lbs.  | 100 GP |
+| Punt Gun     | 2d8 p.  | Ammunition (Range 80/200; Shell), Heavy, Loading, Two-Handed                                    | [[#Spread]] | 18 lbs. | 200 GP |
+| Shotgun      | 1d8 p.  | Ammunition (Range 40/120; Shell), Loading (While held one-handed), Versatile (1d10), Reload (5) | [[#Spread]] | 2 lbs.  | 50 GP  |
+| Sniper Rifle | 1d12 p. | Ammunition (Range 200/600; Bullet), Loading, Two-Handed                                         | Graze       | 10 lbs. | 150 GP |
+| Volley Gun   | 1d10 p. | Ammunition (Range 60/100; Bullet), Salvo, Heavy, Two-Handed, Reload (100)                       | Sap         | 25 lbs. | 100 PP |
+# Ammunition
+* 10 bullets costs 1 GP
+* 10 Shells costs 1 GP
 # Weapon Masteries
 ## Spread
 If you hit a creature with a ranged attack roll using this weapon, you can make a ranged attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
