@@ -29,7 +29,7 @@ After the initial:
 Once the flier has been brought up:
 > With a sheepish grin, he scratches his head.
 > 
-> *"I'm afraid my notice was a bit of a misdirect - I didn't want any locals taking up my request, they might be a little too close to the situation."*
+> *"I'm afraid my notice was a bit of a misdirect - I didn't want any locals taking up my request, they might be a little too... close... to the situation."*
 > 
 > *"The asset I need you to retrieve is my favorite apron."* 
 > 
@@ -41,7 +41,7 @@ The following is what Willem will share:
 * He accidentally left the apron over at K's one night after work, and then things ended between them before he could get it back.
 * He'd get it back himself, but he thinks it best to keep his distance - he doesn't want to upset her.
 	* He will **NOT** share why things ended between the two of them. Especially not to some people he's just met
-* He is willing to pay 5 gold for it and will throw in any blade he has in shop.
+* He is willing to pay 5 gold for it and will throw in any one blade he has in shop.
 	* If the party wants more than that: *"As much as I love that apron and the memories I have with it, I paid 3 coper for it - It'd be silly of me to pay more than what I've offered."*
 
 # Resolution

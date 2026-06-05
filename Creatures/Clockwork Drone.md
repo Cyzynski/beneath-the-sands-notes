@@ -24,4 +24,4 @@ tags:
 ***Explosive Failure.*** The drone explodes when it is destroyed. *Dexterity Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the drone. *Failure*: 2 (1d4) Piercing damage and 2 (1d4) Fire damage. *Success*: Half damage.
 
 ## Actions
-***Gun.*** *Ranged Attack Roll*: +5, range 40/100 ft. *Hit*: 6 (1d6 + 3) Piercing damage. This attack deals an extra 3 (1d6) Fire damage while the drone is bloodied
+***Gun.*** *Ranged Attack Roll*: +5, range 40/100 ft. *Hit*: 6 (1d6 + 3) Piercing damage. This attack deals an extra 3 (1d6) Fire damage while the drone is overheating.
