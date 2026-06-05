@@ -1,5 +1,5 @@
 ![[Grubbinski.png|400]]
-Matthias Grubbinski, or Grubbinski (Grubs to those lucky enough to call him friend) as he likes to be known, is a halfling man of 83 years. A stout and chatty man as well as a merchant of all sorts of wares. He amassed his wealth primarily selling herbal remedies and adventuring equipment - but never weapons. He abhors violence, but understands that the only way to deter violence is with the impression that you are willing to resort to it as well.
+Matthias Grubbinski, or Grubbinski (Grubs to those lucky enough to call him friend) as he likes to be known, is a halfling man of 113 years. A stout and chatty man as well as a merchant of all sorts of wares. He amassed his wealth primarily selling herbal remedies and adventuring equipment - but never weapons. He abhors violence, but understands that the only way to deter violence is with the impression that you are willing to resort to it as well.
 
 His disdain for violence comes from his time in the military, where he served as a general - hence the name for his shop, [[General's Store]]
 
@@ -41,6 +41,8 @@ Matthias is the patriarch of the Grubbinski Merchant Company - because the best 
 7. Hooplus
 8. Buster
 
+# Party Opinions
+He's terrified of [[Joseph Hawthorne - Jacob]] for executing the last remaining highwayman from [[01. Convoy]] in cold blood after she failed to provide any "useful information".
 ___
 
 #NPC/Major

@@ -18,7 +18,7 @@
 | Chained Mail | 30 GP | 14 | - | D. | 40 lb. |
 | Ballistic Mail | 75 GP | 16 | 13 | D. | 55 lb. |
 | Splint Armor | 200 GP | 17 | 15 | D. | 60 lb. |
-| Plate Armor | 1,500 GP | 18 | - | 15 | 65 lb. |
+| Plate Armor | 1,500 GP | 18 | 15 | D. | 65 lb. |
 # Shields
 | Armor | Cost | AC | Weight |
 | --- | --- | --- | --- |

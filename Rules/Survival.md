@@ -13,7 +13,7 @@ If a character does not want to (or cannot) consume the required units of stock,
 A burnt hit die is not replenished until time is spent in civilization and a character regains burnt hit dice at a rate of 1/day.
 
 # Finding a Campsite
-When settling down for the night, the party may want to find a campsite instead of just sleeping in the open. Searching for a campsite takes 1 hour, when this is done, someone must make a Survival check. 
+When settling down for the night, the party may want to find a campsite instead of just sleeping in the open. Searching for a campsite takes 1 hour, when this is done, someone must make a Survival check. Add the result from the table to below to the rest of the party's [[#Resting Penalties]]. If they don't take the time to find a campsite, they get a -4 penalty.
 
 | Survival | Resting Penalty |
 | --- | --- |

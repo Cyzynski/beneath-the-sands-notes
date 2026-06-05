@@ -8,3 +8,5 @@ Since the university is the only of its kind, well anywhere nearby, it's sprawli
 ## Random AI Images of Students
 | ![[GU-Student-Library.png]]  | ![[GU-Student-Outdoors.png]] |
 | --- | --- |
+## Random School Lore
+* Mrs. Bumble passed out in the vent from dehydration, was forced into early retirement and left to go to the sea... where she died shortly after. The school held a party after she died with a cake shaped like her in a vent after her death.

@@ -1,0 +1,6 @@
+## Dynamite
+As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 ft. of that point must make a **DC 12 DEX** saving throw, taking 3d6 bludgeoning damage on a failed save or half that on a success. 
+
+A character an bind multiple sticks of dynamite together so they explode at the same time. Each additional stick increases the damage by 1d6 (to a maximum of 10d6) and the burst radius by 5ft (to a maximum of 20ft).
+
+Dynamite can be rigged with a longer fuse to explode after a set amount of time - usually 1 to 6 rounds. Roll initiative for the dynamite. After the set number of rounds goes by, the dynamite explodes on that initiative. 

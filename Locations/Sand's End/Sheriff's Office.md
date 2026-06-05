@@ -2,3 +2,4 @@ Where [[Sheriff Randall Boggs]] spends his days when he's not patrolling town or
 
 ## Deputies
 * Harold (M. Human)
+* Jameson (M. Halfling)

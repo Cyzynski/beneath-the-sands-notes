@@ -16,6 +16,7 @@ While cursed, the creature can only do one of the following on its next turn:
 * Move,
 * Take an Action, or
 * Take a Bonus Action
+
 If it attempts to do more than one, it takes 1d8 Psychic damage as its mind rebels against the curse. 
 
 ***At Higher Levels.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
