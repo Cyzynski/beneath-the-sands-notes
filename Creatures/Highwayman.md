@@ -12,10 +12,10 @@ tags:
 **Initiative** +2 (12)
 **Speed** 30ft.
 
-|  | MOD | SAVE |  | MOD | SAVE |  | MOD | SAVE |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| STR | +2 | +2 | DEX | +2 | +2 | CON | +2 | +2 | 
-| INT | +0 | +0 | WIS | +0 | +0 | CHA | +0 | +0 | 
+|     | MOD  | SAVE |     | MOD | SAVE |     | MOD | SAVE |
+| --- | ---- | ---- | --- | --- | ---- | --- | --- | ---- |
+| STR | +2 | +2 | DEX | +2  | +2   | CON | +2  | +2   |
+| INT | +0 | +0 | WIS | +0  | +0   | CHA | +0  | +0   |
 **Senses** Passive Perception 10
 **Languages** Common, Thieves' Cant
 **CR** 1/4 (PB +2) #CR/quarter 

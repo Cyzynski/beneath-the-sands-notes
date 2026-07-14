@@ -1,7 +1,9 @@
-From [[Paragon]], his whole family was killed in the explosion that leveled the town.
+From [[Paragon]], his whole family was killed in the explosion that leveled the town - perpetrated by a rival mining company.
 # Session Notes
 * [[5-28]] - He really wants to find out what Milton's did to Buster
 * [[6-04]] - Desperately want's to figure out Stu's real name
+* [[6-18]] - The script was *very* confusing
+* [[7-1]] - Troy is a racist liar. Don't eat anything from Betty unless you're SURE there are no boar Pheromones in it.
 # Hit List
 * Clint Westwood
 * Tex Mexley

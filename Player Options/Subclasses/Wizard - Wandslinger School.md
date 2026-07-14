@@ -3,9 +3,7 @@ _(From Gunslinger’s Guide to Rexfald)_
 _Duel mages with arcane alacrity_
 
 Great wizards hail from many different paths, but among all mages, the one constant trait is a vivacious competitive spirit. These rivalries breed a special wizarding discipline; one whose focus is not on one specific school or study, but instead mastering magic to defeat arcane competitors and claim victory above all else.
-
 ### Level 3: Mage’s Prescience
-
 As a magic action, you can open your mind to the magic leylines surrounding a creature within 60ft of you. You immediately learn the following information about the target:
 
 * Whether or not the target is able to cast spells or use magical abilities.
@@ -13,7 +11,6 @@ As a magic action, you can open your mind to the magic leylines surrounding a cr
 * The source of the target’s magic, such as their bloodline, a powerful entity, a magic item, or another source.
 
 You can use this feature a number of times equal to your Intelligence modifier, regaining all expended uses when you finish a Long Rest.
-
 ### Level 3: Spellarm
 
 You crystallize a personalized mote of arcane power in a rod, staff, or wand – inscribing it with arcane runes that transform it into a Spellarm. Each crafted Spellarm is unique, counting as an arcane focus for your spells. You can have a total number of Spellarms equal to your Intelligence modifier.
@@ -28,7 +25,7 @@ While you are in possession of a functioning Spellarm, you gain the following be
 
 **Disarming Jolt.** With a functional Spellarm in hand, you can use a Bonus Action to make a ranged spell attack against a creature within 60ft. On a hit, you deal Force damage equal to 1d6 + your Wizard level and the target must make a Constitution saving throw against your Wizard spell save DC. On a failure, the target drops one item that it is holding, losing attunement to any item it drops. A creature that has not yet taken a turn in Initiative has Disadvantage on the saving throw. Using this Bonus Action causes the Spellarm to become volatile until the end of combat.
 
-**Quick Cantrips.** When you first draw your Spellarm, or at the start of your first turn in combat if your Spellarm is in hand, you can immediately case the cantrip stored within it (no action required). Once you case this cantrip, the Spellarm becomes volatile until the end of combat.
+**Quick Cantrips.** When you first draw your Spellarm, or at the start of your first turn in combat if your Spellarm is in hand, you can immediately case the cantrip stored within it (no action required). Once you cast this cantrip, the Spellarm becomes volatile until the end of combat.
 
 ### Level 6: Swiftcast
 

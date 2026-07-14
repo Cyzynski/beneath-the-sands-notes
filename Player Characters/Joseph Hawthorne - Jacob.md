@@ -27,7 +27,7 @@ Faster than anyone could blink, his gun left his holster
 
 BANG!!
 
-That's odd, he thought. Where did that come from? He hadn’t pulled the trigger yet. His eyes darted back and forth as he scanned the area. He saw Crie, still turning around, gun in hand, with a smug grin on his face. No smoke from there, so it wasn’t him. Next, he saw Terry, his hat covered his eyes and his mouth scrunched as he turned to look away. Then Henrietta, her face was pale, eyes wide, and mouth agape. He looked to his right. Smoke pouring from the barrel of one of the Clapton Crew’s guns. Then he looked down. His prized revolver, a gift from his late mother, was on the ground along with most of his fingers in a pool of blood streaming from where his right hand used to be. Like a cut that doesn’t hurt til you see it bleeding, the pain hit him all at once. His vision was blurry and pulsing. He dropped to his knees and grabbed arm to try and put some pressure on it. He looked up one more time. Through his fading vision, he saw Crie raise his gun and begin to chuckle. 
+That's odd, he thought. Where did that come from? He hadn’t pulled the trigger yet. His eyes darted back and forth as he scanned the area. He saw Crie, still turning around, gun in hand, with a smug grin on his face. No smoke from there, so it wasn’t him. Next, he saw Terry, his hat covered his eyes and his mouth scrunched as he turned to look away. Then Henrietta, her face was pale, eyes wide, and mouth agape. He looked to his right. Smoke pouring from the barrel of one of the [[Clapton Crew]]’s guns. Then he looked down. His prized revolver, a gift from his late mother, was on the ground along with most of his fingers in a pool of blood streaming from where his right hand used to be. Like a cut that doesn’t hurt til you see it bleeding, the pain hit him all at once. His vision was blurry and pulsing. He dropped to his knees and grabbed arm to try and put some pressure on it. He looked up one more time. Through his fading vision, he saw Crie raise his gun and begin to chuckle. 
 
 “Every town, every sheriff. You’re all the same.” He growled as he aimed right at Joseph’s head. At that moment, everything went dark.
 
@@ -39,3 +39,6 @@ The drop of a burnt log from the fire broke his train of thought. After taking a
 # Session Notes
 * [[5-28]] - He's getting used to everyone in the party... except for Lethel.
 * [[6-04]] - Thinking about why Twinner snuck out
+* [[6-11]] - Very skeptical at the efficiency of the new deputies.
+* [[6-18]] - Dislike that Helena was willing to leave people behind at the dig site to get the tablet
+* [[7-1]] - Hopes that Helena keeps her promise to "chill the fuck out" and make progress on the research.

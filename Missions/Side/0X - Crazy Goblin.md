@@ -1,0 +1,1 @@
+[[Reginald VonSchmidtsly]] has lost his necklace and reverted to his true form. Help [[Matthias Grubbinski]] find it again to restore his steward.

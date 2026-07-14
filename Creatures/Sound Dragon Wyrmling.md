@@ -34,17 +34,16 @@ tags:
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 > ***Crescendo Breath.*** *Constitution Saving Throw:* DC 13, each creature in a 60-foot cone. 
--  *Failure:* 3 (1d6 thunder) damage. 
-- *Success:* Half damage. 
-- *Failure or Success:* Saving throws made to maintain concentration caused by this are made at Disadvantage.
-
-The Breath reverberates two more times in the same affected area. At the next initiative 20 and 0, each creature in the area must repeat the same saving throw. Each subsequent reverberation deals a cumulative additional 1d6 thunder damage.
-
+> -  *Failure:* 3 (1d6) thunder damage. 
+> - *Success:* Half damage. 
+> - *Failure or Success:* Saving throws made to maintain concentration caused by this are made at Disadvantage.
+>
+>The Breath reverberates two more times in the same affected area. At the next initiative 20 and 0, each creature in the area must repeat the same saving throw. Each subsequent reverberation deals a cumulative additional 1d6 thunder damage.
 
 >***Blast Breath.***  *Constitution Saving Throw:* DC 13, each creature in a 30-foot cone. 
-- *Failure:* 19 (3d12) thunder damage and the target is knocked prone and pushed back 5 feet. 
-- *Success:* Half damage only. 
-- *Failure or Success:* Objects and structures take double damage from this effect.
+>- *Failure:* 19 (3d12) thunder damage and the target is knocked prone and pushed back 5 feet. 
+>- *Success:* Half damage only. 
+>- *Failure or Success:* Objects and structures take double damage from this effect.
 
 ## Reactions
 ***Sonic Shield.*** *Trigger:* A creature within 10 feet damages the dragon with an attack. *Response:* The dragon reduces the damage by 4 (1d6). Optionally, the attacker can choose that the dragon doesn't reduce the damage and take 4 (1d6) thunder damage instead

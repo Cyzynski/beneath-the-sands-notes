@@ -26,7 +26,7 @@ tags:
 ## Actions
 **_Multiattack_**. The Highwayman makes two Sniper attacks.
 
-**_Sniper Rifle_**.  _Ranged Attack Roll_: +5, range 200/600 ft. _Hit_: 9 (1d12 + 3) piercing damage. _Miss_: 3 piercing damage.
+**_Sniper Rifle_**.  _Ranged Attack Roll_: +5, range 200/600 ft. _Hit_: 9 (1d12 + 3) piercing damage. _Miss_: 3 piercing damage. *Miss:* 3 piercing damage.
 
 ## Loot
 * 1d4 gp

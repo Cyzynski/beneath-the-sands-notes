@@ -4,6 +4,9 @@ A stout dwarven man with a fondness for drink and an even greater fondness for g
 
 Also a chain-smoker. 
 
+# Opinions
+* Doesn't like Betty - jacking up the prices of his horses since she killed one of them
+
 ---
 
 #NPC/Minor 

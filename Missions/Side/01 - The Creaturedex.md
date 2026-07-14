@@ -17,16 +17,14 @@ If it's after hours:
 > You open the door and see a tall, half-Orc woman tidying up a small one-room classroom. As you enter, she looks up at you with a smile.
 > 
 > "Can I help you boys?"
-
 # The Job
 > "The young'uns are so curious about all the varmints and critters out around here, but I just don't have the time. Could you gather up some information about them for me? Can any of y'all draw? That could make a nice addition."
 >
 > "I'll pay ya a little something for each one. The more information you can get me for each critter, the more I'll pay. Wha'd'ya say?"
 
-If the party raises a stink:
+**If the party raises a stink:**
 > "Okay, big boy. I'm operating on a teacher's salary! I figured you'd do this for the love of the game... unless of course, you're all hat and no cattle - like my Ex husband."
 
 Miss K will pay up to 2 GP for each entry. Less if less information is given.
-
 # Resolution
 TBD

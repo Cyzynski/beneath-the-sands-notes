@@ -1,0 +1,1 @@
+Works the same as normal potions of healing at various potencies, except these can also remove the Poisoned or Paralyzed condition.

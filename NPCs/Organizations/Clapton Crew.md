@@ -1,0 +1,1 @@
+Led by Crie Clapton, this gang roved the desert, burying sheriffs and burning buildings in their wake.
