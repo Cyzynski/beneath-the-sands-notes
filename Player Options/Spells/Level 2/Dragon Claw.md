@@ -15,4 +15,4 @@ You unleash a strike of draconic energy. Choose acid, cold, fire, lightning, poi
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d12 for each slot level above 2nd. 
 
 ___
-#Spell/Level2 #Spell/Paladin #Spell/Ranger #Spell/Sorcerer #Spell/Wizard #Spell/Conjuraton
+#Spell/Level2 #Spell/Paladin #Spell/Ranger #Spell/Sorcerer #Spell/Wizard #Spell/Conjuration

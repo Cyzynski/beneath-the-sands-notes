@@ -7,3 +7,7 @@ To decide he doesn’t want to keep following orders and take down Vicious or at
 # Session Notes
 * [[6-11]] - The sniper is quite effective at range. Wants to investigate the crank gun further.
 * [[6-18]] - Helena must have valuable information since she was at both sites
+* [[7-01]] - The group seems very trusting of Helena, I'm not. But I'm curious what her results are. She seems to value the tablet over anyone's lives - including her own.
+* [[7-16]] - Hand cannon seems neat
+* [[7-23]] - The [[Battle Furnace]] is real neat!
+* [[8-06]] - Very interested in those dragons/how they work/how to create them

@@ -16,3 +16,7 @@ She was dropped into the desert (bakery and all) by an ethereal being - "Russel 
 * [[5-28]] - She really cherished cooking the "bean cake" with Pauline, it reminded her of Omlet
 * [[6-04]] - Deputy is sexiest, the bartender *might* be a homosexual - they must be in a relationship!
 * [[6-11]] - It's all a bit hazy. "My horse kill count is 2". "The blacksmith is impotent"
+* [[7-01]] - "Boars like walnuts and I know **EXACTLY** what boar pheromones smell like with sickening specificity."
+* [[7-16]] - Don Quixote's Bread!
+* [[7-23]] - Steve and Gayle are not cousins
+* [[8-06]] - Twiner has "never been sucked up by a man"
