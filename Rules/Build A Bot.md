@@ -1,6 +1,6 @@
 *(From that one Patreon... I forgot the name)*
 Magically imbued with some degree of intelligence, constructs are the creations of artificers and all manner of magical tinkerers. An adamantine purple worm, a flying staff of power, a stone tarrasque - create all these and more with this comprehensive new template! 
-# CONSTRUCT TEMPLATE 
+# Construct Template
 While designed to be flexible and able to be applied to a wide range of monsters of all creature types, this template works best when applied to most beasts, dragons, fiends, giants, humanoids, and monstrosities—with the exception of the Animated/Flying Object category, which is instead applied to inanimate objects. A DM can also choose to apply this template to other monsters, at their discretion. 
 
 All monsters modified by this template gain the Universal Traits below. One of the other categories of traits may also be applied to achieve a desired type of construct, such as applying the Modified Armor Class, Modified Ability Scores, and Hardmetal Strikes traits to create a metal version of a monster. In addition, a monster may have one or several of the Miscellaneous Traits or traits from any other category, typically gaining no more of these traits than a number equal to half its challenge rating. 

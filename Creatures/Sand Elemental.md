@@ -2,7 +2,7 @@
 tags:
   - Elemental
 ---
-*Medium #Elemental, Lawful Evil*
+*Large #Elemental, Lawful Evil*
 
 ---
 

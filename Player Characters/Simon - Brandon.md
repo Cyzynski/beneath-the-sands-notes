@@ -8,4 +8,7 @@ His childhood was nothing particularly different from other members of his famil
 * [[6-04]] - He got a horse! Very excited! Like a princess!
 * [[6-11]] - He really liked casting a big spell
 * [[6-18]] - "I hate these academics"
-* [[7-1]] - Doesn't like Helena. He gave her the tablet to get her out of his hair.
+* [[7-01]] - Doesn't like Helena. He gave her the tablet to get her out of his hair.
+* [[7-16]] - "I'm a bit apprehensive of buildings now"
+* [[7-23]] - Interested by the puzzles, but "Why can't this just be a hallway??"
+* [[8-06]] - I liked the library - very exciting and then Lethel told him there was only one book and he got sad.

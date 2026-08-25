@@ -18,7 +18,7 @@ tags:
 **Immunities** poison, psychic, Charmed, Frightened, Paralyzed, Petrified, Poisoned
 **Senses** darkvision 60ft, passive Perception 10
 **Languages** understands Draconic and Zmokan, but can't speak.
-**CR** 1 (PB +2)  #CR/2 
+**CR** 1 (PB +2)  #CR/1 
 ## Traits
 ***Bloodied - Overheating.*** When the dragon becomes bloodied for the first time, if it is Large or larger, it recharges its Rust Breath. While bloodied, it gains resistance to fire damage, but whenever it takes 5 or more fire damage, it gains 1 level of [exhaustion](https://www.aidedd.org/en/rules/conditions/). All of the dragon's damaging effects deal an additional 1d6 fire damage while it is Overhearing.
 ## Actions

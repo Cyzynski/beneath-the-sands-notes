@@ -5,7 +5,6 @@ tags:
 *Medium #Humanoid, Lawful Evil*
 
 ---
-![[Highwayman.png]]
 
 **AC** 12 (leather)
 **HP** 19 (3d8+6)

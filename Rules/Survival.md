@@ -21,24 +21,23 @@ When settling down for the night, the party may want to find a campsite instead 
 | 11-15 | -2 |
 | 16-20 | +0 |
 | 20+ | +1 |
-
 # Resting Penalties
 Many conditions can affect the quality of rest when out in the wilderness. When penalties are in effect, add all those together and then decrease that character's maximum hit points by that amount. These reductions are cumulative and only go away after spending time in civilization.
 
-| Negative Condition | Mod |
-| --- | --- |
-| [[#Finding a Campsite]] | -4/-? |
-| Bloodied | -1 |
-| **Sleeping in armor** | --- |
-| - Light armor | -4 |
-| - Medium armor | -10 |
-| - Heavy armor | *Impossible* |
-| **Sleep Interruptions** | --- |
-| - Each time getting woken up | -1 |
-| - Each encounter during the rest | -3 |
-| **Food** | --- |
-| - Meager food | -1 |
-| - No food consumed | -2 |
+| Negative Condition               | Mod          |
+| -------------------------------- | ------------ |
+| [[#Finding a Campsite]]          | -4/-?        |
+| Bloodied                         | -1           |
+| **Sleeping in armor**            | ---          |
+| - Light armor                    | -4           |
+| - Medium armor                   | -10          |
+| - Heavy armor                    | *Impossible* |
+| **Sleep Interruptions**          | ---          |
+| - Each time getting woken up     | -1           |
+| - Each encounter during the rest | -3           |
+| **Food**                         | ---          |
+| - Meager food                    | -1           |
+| - No food consumed               | -2           |
 
 | Positive Condition | Mod |
 | --- | --- |

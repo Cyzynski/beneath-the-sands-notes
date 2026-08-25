@@ -41,4 +41,7 @@ The drop of a burnt log from the fire broke his train of thought. After taking a
 * [[6-04]] - Thinking about why Twinner snuck out
 * [[6-11]] - Very skeptical at the efficiency of the new deputies.
 * [[6-18]] - Dislike that Helena was willing to leave people behind at the dig site to get the tablet
-* [[7-1]] - Hopes that Helena keeps her promise to "chill the fuck out" and make progress on the research.
+* [[7-01]] - Hopes that Helena keeps her promise to "chill the fuck out" and make progress on the research.
+* [[7-16]] - "There are some very odd creatures out here. I've seen a lot of things out here, but not that."
+* [[7-23]] - Taken aback by the intricacies of the dungeon and thinking about the people that created it, where are they?
+* [[8-06]] - Beginning to notice how trigger happy Twinner is, I need to keep an eye on him

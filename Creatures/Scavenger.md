@@ -27,7 +27,7 @@ tags:
 ## Actions
 ***Multiattack.*** The scavenger makes two Claw attacks.
 
-***Claw.*** *Melee Attack Roll*: +4, reach 5 ft. *Hit*: 9 (2d6 + 2) Slashing damage and the target is grappled (escape DC 12). This attack deals an additional 3 (1d6) Fire damage while the dragon is bloodied.
+***Claw.*** *Melee Attack Roll*: +4, reach 5 ft. *Hit*: 9 (2d6 + 2) Slashing damage and the target is grappled (escape DC 12). This attack deals an additional 3 (1d6) Fire damage while the construct is bloodied.
 
 ***Break and Assimilate (Recharge 4-6).*** The scavenger destroys a non-magical Small or smaller object made out of metal it is carrying or takes out from its Chest Cavity and regains 9 (2d8) hit points.
 ## Bonus Actions

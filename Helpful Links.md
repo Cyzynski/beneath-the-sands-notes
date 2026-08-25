@@ -13,7 +13,9 @@
 
 
 [[Pocket Contents]]
+[[Pocket Contents II]]
 [[Magic Junk]]
+[[Unlabeled Potions]]
 [[Build A Bot]]
 
 Random doodads that can be found in people's pockets
