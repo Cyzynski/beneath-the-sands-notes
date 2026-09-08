@@ -29,6 +29,6 @@ tags:
 ***Maul - Smash.*** *Melee Attack Roll*: +5, reach 5 ft. *Hit*: 11 (2d6 + 4) Bludgeoning damage and make a DC 15 Constitution Saving Throw or be knocked Prone.
 
 ## Bonus Actions
-***Split.*** If the weapon has at least 10 hit points, it splits into two. The new weapon appears in an unoccupied space within 5ft. Divide its current hit points evenly between the two weapons. The new one may immediately make an attack action.
+***Split.*** If the weapon has at least 10 hit points, it splits into two. The new weapon appears in an unoccupied space within 5ft. Divide its current hit points evenly between the two weapons. The new one may immediately take an attack action but cannot move or take a bonus action this turn.
 
-***Convert.*** The animated weapon transforms into a different one of it's modes.
+***Convert.*** The animated weapon transforms into a different one of its modes.

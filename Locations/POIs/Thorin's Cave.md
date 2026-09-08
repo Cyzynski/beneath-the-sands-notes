@@ -1,0 +1,1 @@
+A small cave in the mountain range to the South, named for the dwarf Thorin that died looking for treasures - it had to be closed off to the public after many adventurer's also died chasing his legacy.

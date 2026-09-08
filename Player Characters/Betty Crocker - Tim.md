@@ -20,3 +20,5 @@ She was dropped into the desert (bakery and all) by an ethereal being - "Russel 
 * [[7-16]] - Don Quixote's Bread!
 * [[7-23]] - Steve and Gayle are not cousins
 * [[8-06]] - Twiner has "never been sucked up by a man"
+* [[8-27]] - "I remember passing out..."
+* [[9-03]] - 

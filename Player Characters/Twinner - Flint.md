@@ -7,6 +7,8 @@ From [[Paragon]], his whole family was killed in the explosion that leveled the 
 * [[7-16]] - I genuinely think I did a good thing by leaving a gold piece behind after robbing Donny Q
 * [[7-23]] - Steve and Gayle ARE cousins.
 * [[8-06]] - The rock. I like my rock.
+* [[8-27]] - Big ego. Definitely the glue of the party.
+* [[9-03]] - 
 # Hit List
 * Clint Westwood
 * Tex Mexley

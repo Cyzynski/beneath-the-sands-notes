@@ -10,10 +10,10 @@ tags:
 **Initiative** +3 (13)
 **Speed** 40ft., fly 40 ft.
 
-|     | MOD | SAVE |     | MOD | SAVE |     | MOD | SAVE |     |
-| --- | --- | ---- | --- | --- | ---- | --- | --- | ---- | --- |
-| STR | +3  | +3   | DEX | +3  | +3   | CON | +2  | +2   |     |
-| INT | +0  | +0   | WIS | +1  | +2   | CHA | +2  | +2   |     |
+|     | MOD | SAVE |     | MOD | SAVE |     | MOD | SAVE |
+| --- | --- | ---- | --- | --- | ---- | --- | --- | ---- |
+| STR | +3  | +3   | DEX | +3  | +3   | CON | +2  | +2   |
+| INT | +0  | +0   | WIS | +1  | +2   | CHA | +2  | +2   |
 
 **Immunities** poison, psychic, Charmed, Frightened, Paralyzed, Petrified, Poisoned
 **Senses** darkvision 60ft, passive Perception 10

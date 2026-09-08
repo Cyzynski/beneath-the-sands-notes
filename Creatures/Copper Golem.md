@@ -7,7 +7,7 @@ tags:
 ---
 
 **AC** 15
-**HP** 10 (3d6)
+**HP** 14 (4d6)
 **Initiative** +2 (12)
 **Speed** 20 ft.
 
@@ -18,10 +18,12 @@ tags:
 **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned  
 **Senses** Blindsight 60 ft., Passive Perception 9
 **Languages** -
-**CR** 1/4 (PB +2) #CR/quarter *(This is a very loose CR 1/4 - It's adapted from the 1/4 Goblin and then souped up)*
+**CR** 1/2 (PB +2) #CR/half *(Adapted from the 1/4 Goblin and then souped up)*
 ## Abilities
 ***Bloodied - Damaged Grounding.*** While bloodied, the arc walker's lightning damage immunity turns into a resistance. Additionally, when a creature ends its turn within 5 feet of the golem, it takes 2 (1d4) lightning damage. Attacks made by the golem deal an additional 2 (1d4) lightning damage while it is bloodied.
 ## Actions
 **_Spark_**. _Melee or Ranged Attack Roll_: +4, reach 5 ft. or range 20/60 ft. _Hit_: 5 (1d6 + 2) Lightning damage. This attack deals an additional 2 (1d4) lightning damage while the golem is bloodied.
 ## Bonus Actions
-**_Overclock_.** The golem makes an additional Spark attack. On its next turn, it cannot take an action. It cannot use this ability two turns in a row.
+**_Overclock_.** The golem makes a Spark attack. On its next turn, it cannot take an action. It cannot use this ability two turns in a row.
+
+***Consume.*** The golem eats some metal (for example part of a fallen comrade) and gains 1d6 Temporary Hit Points and Advantage on the next attack roll it makes before the start of its next turn.

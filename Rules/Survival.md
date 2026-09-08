@@ -37,11 +37,11 @@ Many conditions can affect the quality of rest when out in the wilderness. When 
 | - Each encounter during the rest | -3           |
 | **Food**                         | ---          |
 | - Meager food                    | -1           |
-| - No food consumed               | -2           |
+| - No food consumed               | -2           
 
-| Positive Condition | Mod |
-| --- | --- |
-| Using a bedroll | +2 |
-| Sleeping in a tent | +2 |
-| Not taking a watch shift | +2 |
-| Well fed | +1 |
+| Positive Condition       | Mod |
+| ------------------------ | --- |
+| Using a bedroll          | +2  |
+| Sleeping in a tent       | +2  |
+| Not taking a watch shift | +2  |
+| Well fed                 | +1  |

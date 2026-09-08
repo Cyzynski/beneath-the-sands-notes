@@ -1,0 +1,1 @@
+A small mining town North of [[Sand's End]]. [[The Borant Company]] hired a group of bandits to blow up the [[Essence]] mine to shut it down, but the explosives also leveled the town, killing everyone.

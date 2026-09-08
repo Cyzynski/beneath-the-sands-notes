@@ -30,6 +30,8 @@ Flora is the goddess of nature. She is primarily worshipped by druids, farmers, 
 Providence is the goddess of fate and destiny. The followers of Providence fall into two main camps:
 1. Those that believe that their duty is to find their destiny through a devoted life of prayer. Then, once they've found it, follow it to the best of their ability in honor of Providence.
 2. Those that think their destiny will find them regardless of what they do - these followers tend to be largely indistinguishable from people that don't follow any particular deity. It's more of a token belief than anything else.
+# (The god of magic)
+The god of magic, his power sustains and feeds the weave - from which all arcane magic is drawn.
 # The Order of the Desert Maw
 The most recent "popular" religion. 50 years ago, Montague Silverquail the 200th unlocked an orb and - he claims - was shown a vision of the future, including a massive maw erupting from the sands. He has claimed the rank of Montague Silverquail the 2nd, saying that he has truly predicted the future. 
 

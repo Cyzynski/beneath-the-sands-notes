@@ -45,3 +45,5 @@ The drop of a burnt log from the fire broke his train of thought. After taking a
 * [[7-16]] - "There are some very odd creatures out here. I've seen a lot of things out here, but not that."
 * [[7-23]] - Taken aback by the intricacies of the dungeon and thinking about the people that created it, where are they?
 * [[8-06]] - Beginning to notice how trigger happy Twinner is, I need to keep an eye on him
+* [[8-27]] - Glad he had a first heartfelt-ish conversation with Twinner. It's unfamiliar, but feels good.
+* [[9-03]] - 

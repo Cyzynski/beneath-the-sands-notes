@@ -1,4 +1,4 @@
-[Conditions](https://www.aidedd.org/en/rules/conditions/)
+[Conditions](https://www.aidedd.org/regles-24/glossaire/etats/)
 [Map Generator](https://watabou.github.io/)
 [Encounter Calculator](https://www.aidedd.org/dnd-encounter/index.php)
 [2024 Monsters](https://www.aidedd.org/monster/)

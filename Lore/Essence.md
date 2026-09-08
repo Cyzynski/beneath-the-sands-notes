@@ -1,0 +1,1 @@
+A rare mineral found only in [[The Desert]]. It's properties and uses in arcane creations are only just being discovered.

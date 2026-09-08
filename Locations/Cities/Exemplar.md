@@ -1,0 +1,1 @@
+Founded just long enough after the destruction of [[Paragon]] by [[The Borant Company]]. Currently ruled over by 

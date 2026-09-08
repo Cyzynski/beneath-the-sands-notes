@@ -1,0 +1,1 @@
+Owned and operated by [[Simon - Brandon]]'s family. They hired bandits to terrorize the mining town of [[Paragon]] to ensure that their mining interests in [[Exemplar]] could be fruitful alone.

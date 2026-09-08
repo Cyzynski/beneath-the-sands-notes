@@ -43,5 +43,4 @@ The following is what Willem will share:
 	* He will **NOT** share why things ended between the two of them. Especially not to some people he's just met
 * He is willing to pay 5 gold for it and will throw in any one blade he has in shop.
 	* If the party wants more than that: *"As much as I love that apron and the memories I have with it, I paid 3 coper for it - It'd be silly of me to pay more than what I've offered."*
-
 # Resolution
