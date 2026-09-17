@@ -11,7 +11,6 @@
 [Warlord Class](https://www.gmbinder.com/share/-MrUNf61qoDb0Csw8a9r)
 * [Additional Features & Subclasses](https://www.gmbinder.com/share/-NlKD02rNjo7mjeK5pj0)
 
-
 [[Pocket Contents]]
 [[Pocket Contents II]]
 [[Magic Junk]]

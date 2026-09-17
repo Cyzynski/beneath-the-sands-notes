@@ -46,4 +46,5 @@ The drop of a burnt log from the fire broke his train of thought. After taking a
 * [[7-23]] - Taken aback by the intricacies of the dungeon and thinking about the people that created it, where are they?
 * [[8-06]] - Beginning to notice how trigger happy Twinner is, I need to keep an eye on him
 * [[8-27]] - Glad he had a first heartfelt-ish conversation with Twinner. It's unfamiliar, but feels good.
-* [[9-03]] - 
+* [[9-03]] - Its interesting seeing the state of the town now
+* [[9-10]] - Relieved in a strange way that he's finally found some clue about the Clapton Crew - he knows he's in the right place. He's worried he's not processing something and that's why Betty reacted so much worse to the amulet.

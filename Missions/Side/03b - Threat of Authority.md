@@ -19,4 +19,5 @@ The party learns a corrupt noble in a nearby town in the foothills of the mounta
 As the party nears the city, they see the giant, either walking around the town or laying behind the mayor's estate, asleep.
 ## The Estate
 *Provide secret passages, guards galore, locks, loot, and such*
+#TODO 
 # Resolution

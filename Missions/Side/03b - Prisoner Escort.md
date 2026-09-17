@@ -1,0 +1,1 @@
+The party is tasked with delivering [[01 - Wanted. Thievin' Stu|Thievin' Stu]] (ALIVE) to Hope's Embrace for trial/imprisonment. This may conflict with Twinner's plans.

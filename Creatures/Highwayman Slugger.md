@@ -5,7 +5,6 @@ tags:
 *Medium #Humanoid, Lawful Evil*
 
 ---
-![[HighwaymanSlugger.png]]
 
 **AC** 15
 **HP** 55 (9d8+18)

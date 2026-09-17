@@ -50,3 +50,11 @@ views:
     order:
       - file.name
       - file.tags
+  - type: table
+    name: Spells
+    filters:
+      and:
+        - file.tags.contains("Spell")
+    groupBy:
+      property: file.folder
+      direction: ASC
