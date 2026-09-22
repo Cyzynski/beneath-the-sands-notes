@@ -5,15 +5,15 @@ tags:
 *Small #Construct, Unaligned*
 
 ---
-**AC** 16
+**AC** 15
 **HP** 36 (8d6 + 8)
 **Initiative** +2 (12)
 **Speed** 0ft., Fly 50 ft. (hover)
 
-|     | MOD | SAVE |     | MOD | SAVE |     | MOD | SAVE |     |
-| --- | --- | ---- | --- | --- | ---- | --- | --- | ---- | --- |
-| STR | +4  | +6   | DEX | +2  | +2   | CON | +1  | +1   |     |
-| INT | -5  | -5   | WIS | -3  | -3   | CHA | -5  | -5   |     |
+|     | MOD | SAVE |     | MOD | SAVE |     | MOD | SAVE |
+| --- | --- | ---- | --- | --- | ---- | --- | --- | ---- |
+| STR | +4  | +6   | DEX | +2  | +2   | CON | +1  | +1   |
+| INT | -5  | -5   | WIS | -3  | -3   | CHA | -5  | -5   |
 
 **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned  
 **Senses** Blindsight 60 ft., Passive Perception 7

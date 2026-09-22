@@ -14,3 +14,4 @@ To decide he doesn’t want to keep following orders and take down Vicious or at
 * [[8-27]] - Felt nice having a very brief, zone of truth enforced, heartfelt moment.
 * [[9-03]] - Very interested in "Lockwood's Flints" and how he can improve my weapons
 * [[9-10]] - The Battle Furnace feels good. Making a mental note that I convinced Betty and Ms. K that the gods healed Betty.
+* [[9-17]] - Interested in his new horse, "and about the relationship between a person and his pet" (not in a weird way)

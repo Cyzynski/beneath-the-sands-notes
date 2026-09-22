@@ -23,3 +23,4 @@ She was dropped into the desert (bakery and all) by an ethereal being - "Russel 
 * [[8-27]] - "I remember passing out..."
 * [[9-03]] - Remember to bring an offering to O4 for 'Tholemew
 * [[9-10]] - Ms. K might light to hang out socially sometime (while putting fingers together, "pweese?")
+* [[9-17]] - Betty is left handed

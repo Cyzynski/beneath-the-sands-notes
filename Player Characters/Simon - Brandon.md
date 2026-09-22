@@ -15,3 +15,4 @@ His childhood was nothing particularly different from other members of his famil
 * [[8-27]] - Going to chase the mirror/misty step high forever
 * [[9-03]] - Feels like a poor boy - like there's a new game coming out, but he's gotta pay rent.
 * [[9-10]] - High on life. Manifesting wealth. "I really wanted money, and it came to me. I want to be... far... away from here." Manifesting teleporting everyone away somewhere better
+* [[9-17]] - Feels like he was out of touch, loves the fact that spells are waaaayyyy more affordable.

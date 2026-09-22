@@ -48,3 +48,4 @@ The drop of a burnt log from the fire broke his train of thought. After taking a
 * [[8-27]] - Glad he had a first heartfelt-ish conversation with Twinner. It's unfamiliar, but feels good.
 * [[9-03]] - Its interesting seeing the state of the town now
 * [[9-10]] - Relieved in a strange way that he's finally found some clue about the Clapton Crew - he knows he's in the right place. He's worried he's not processing something and that's why Betty reacted so much worse to the amulet.
+* [[9-17]] - Not super focused - more concerned with getting the Clapton Crew

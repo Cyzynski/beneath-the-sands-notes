@@ -11,10 +11,10 @@ tags:
 **Initiative** +3 (13)
 **Speed** 40ft.
 
-|     | MOD | SAVE |     | MOD | SAVE |     | MOD | SAVE |     |
-| --- | --- | ---- | --- | --- | ---- | --- | --- | ---- | --- |
-| STR | +4  | +7   | DEX | +3  | +6   | CON | +3  | +6   |     |
-| INT | +2  | +2   | WIS | +3  | +3   | CHA | -2  | -2   |     |
+|     | MOD | SAVE |     | MOD | SAVE |     | MOD | SAVE |
+| --- | --- | ---- | --- | --- | ---- | --- | --- | ---- |
+| STR | +4  | +7   | DEX | +3  | +6   | CON | +3  | +6   |
+| INT | +2  | +2   | WIS | +3  | +3   | CHA | -2  | -2   |
 **Immunities** poison, psychic, Charmed, Frightened, Paralyzed, Petrified, Poisoned
 **Senses** darkvision 60ft., passive Perception 16
 **Languages** understands Draconic and Zmokan, but can't speak.

@@ -1,1 +1,0 @@
-A small mining town North of [[Sand's End]]. A rival mining company hired a band of bandits to blow up the mine, shutting down the town - but the explosives also leveled the town, killing everyone.

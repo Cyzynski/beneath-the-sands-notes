@@ -10,6 +10,7 @@ From [[Paragon]], his whole family was killed in the explosion that leveled the 
 * [[8-27]] - Big ego. Definitely the glue of the party.
 * [[9-03]] - Betty is a pimp, I have a horse now!
 * [[9-10]] - I am the Unluckiest person on the planet. Nothing has gone my way recently.
+* [[9-17]] - I got an absolute STEAL on my horse. It came with upgrades!
 # Hit List
 * Clint Westwood
 * Tex Mexley
