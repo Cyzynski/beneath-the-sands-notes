@@ -14,6 +14,7 @@ tags:
 | --- | --- | ---- | --- | --- | ---- | --- | --- | ---- |
 | STR | +4  | +7   | DEX | +2  | +2   | CON | +2  | +5   |
 | INT | +2  | +2   | WIS | +1  | +1   | CHA | +2  | +2   |
+
 **Proficiencies** brewer's supplies, Athletics (+7)
 **Senses** darkvision 60ft, passive Perception 9
 **Languages** Common
