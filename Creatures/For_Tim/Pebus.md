@@ -30,7 +30,7 @@ tags:
 
 ***Windup Toy.*** Pebus's windup {TOY} functions as a familiar per the *find familiar* spell, minus anything uniquely cool and magical.
 ## Actions
-***Multiattack.*** Pebus makes two multitool, dirty shank attacks in any combination.
+***Multiattack.*** Pebus makes two multitool attacks.
 
 ***Multitool.*** *Melee Attack Roll*: +4, reach 5 ft. *Hit*: 9 (1d4 + 2) Piercing damage.
 
