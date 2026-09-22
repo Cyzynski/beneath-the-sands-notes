@@ -34,8 +34,6 @@ tags:
 
 ***Multitool.*** *Melee Attack Roll*: +4, reach 5 ft. *Hit*: 9 (1d4 + 2) Piercing damage.
 
-***Dirty Shank.*** *Melee Attack Roll*: +4, reach 5 ft. *Hit*: 9 (1d4 + 2) Piercing damage plus 3 (1d6) Poison damage. The target must make a DC 15 saving throw or be poisoned. Whenever he misses with the shank, if he missed by more than 5, it breaks.
-
 ***Flare Gun.*** *Ranged Attack Roll*: +7, range 120 ft. *Hit*: 11 (2d10) Fire damage.
 
 ***Cooking Oil (1/Day).*** *Dexterity Saving Throw*, each creature in a 10-foot square centered on a point within 60 feet. *DC:* 15
