@@ -21,6 +21,7 @@ tags:
 | --- | --- | ---- | --- | --- | ---- | --- | --- | ---- |
 | STR | +5  | +8   | DEX | +2  | +2   | CON | +2  | +5   |
 | INT | +1  | +1   | WIS | +4  | +4   | CHA | +0  | +0   |
+
 **Immunities** Necrotic, Poison, poisoned, exhaustion, charmed
 **Senses** Darkvision 60ft, passive Perception 14
 **Languages** Zmokan.
