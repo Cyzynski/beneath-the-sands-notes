@@ -30,11 +30,11 @@ tags:
 
 ***Windup Toy.*** Pebus's windup {TOY} functions as a familiar per the *find familiar* spell, minus anything uniquely cool and magical.
 ## Actions
-***Multiattack.*** Pebus makes two multitool attacks.
+***Multiattack.*** Pebus makes two Multitool or Magnifier w/ Flashlight attacks.
 
 ***Multitool.*** *Melee Attack Roll*: +4, reach 5 ft. *Hit*: 9 (1d4 + 2) Piercing damage.
 
-***Flare Gun.*** *Ranged Attack Roll*: +7, range 120 ft. *Hit*: 11 (2d10) Fire damage.
+***Magnifier w/ Flashlight.*** *Ranged Attack Roll*: +7, range 60 ft. *Hit*: 11 (1d6 + 4) Fire/Radiant/Lightning damage.
 
 ***Cooking Oil (1/Day).*** *Dexterity Saving Throw*, each creature in a 10-foot square centered on a point within 60 feet. *DC:* 15
 * *Failure*: the target has the Prone condition. 
