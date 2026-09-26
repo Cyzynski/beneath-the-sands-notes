@@ -13,7 +13,7 @@ tags:
 |     | MOD | SAVE |     | MOD | SAVE |     | MOD | SAVE |
 | --- | --- | ---- | --- | --- | ---- | --- | --- | ---- |
 | STR | +2  | +2   | DEX | +2  | +2   | CON | +2  | +5   |
-| INT | +4  | +7   | WIS | +2  | +2   | CHA | +2  | +2   |
+| INT | +4  | +7   | WIS | +2  | +2   | CHA | -1  | -1   |
 
 **Proficiencies** cook's utensils, tinker's tools, Stealth (+5), History (+7)
 **Senses** darkvision 60ft, passive Perception 12
