@@ -23,6 +23,7 @@ tags:
 ***Substance Abuse.*** Whenever Cap'n ingests alcohol, he gains 1 stack of *B.A.C.* (maximum of 5) for each stack he has, he gains the following "benefits":
 * All damage he takes is reduced by 1,
 * All Wisdom and Intelligence rolls get -1
+
 While he has no *B.A.C.*, Cap'n gets "the shakes" causing him to have disadvantage on any Dexterity checks and to lose half his movement speed until he gets his fix.
 
 ***Tavern Brawler.*** For unarmed strikes, Cap'n can reroll the die if it rolls a 1, but must use the new roll. Once per turn, when he hits a creature with an unarmed strike, he may push that creature 5 ft away.
